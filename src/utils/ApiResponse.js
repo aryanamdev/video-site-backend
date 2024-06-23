@@ -7,4 +7,4 @@ class ApiResponse {
   }
 }
 
-const response = new ApiResponse();
+export const response = new ApiResponse();
